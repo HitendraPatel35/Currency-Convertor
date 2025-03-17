@@ -1,0 +1,379 @@
+2025-03-17 11:07:39.126 +04:00 [INF] Starting up
+2025-03-17 11:08:24.174 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 828.8213ms
+2025-03-17 11:15:04.248 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /favicon.ico, Response Code: 404, Response Time: 7.2883ms
+2025-03-17 11:17:12.826 +04:00 [INF] Starting up
+2025-03-17 11:17:16.644 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 224.6654ms
+2025-03-17 11:21:24.457 +04:00 [INF] Starting up
+2025-03-17 11:21:30.848 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 269.3703ms
+2025-03-17 11:23:57.041 +04:00 [INF] Starting up
+2025-03-17 11:24:01.452 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 237.2172ms
+2025-03-17 11:24:34.786 +04:00 [INF] Starting up
+2025-03-17 11:24:39.002 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 209.3168ms
+2025-03-17 11:24:41.763 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 97.0698ms
+2025-03-17 11:24:48.223 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 44.0239ms
+2025-03-17 11:27:14.422 +04:00 [INF] Starting up
+2025-03-17 11:27:20.702 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 247.7402ms
+2025-03-17 11:27:23.896 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 116.8697ms
+2025-03-17 11:28:01.405 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 52.8712ms
+2025-03-17 11:29:11.583 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 6765.2862ms
+2025-03-17 11:29:42.429 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 1200.7916ms
+2025-03-17 11:33:12.182 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 32.5894ms
+2025-03-17 11:36:11.456 +04:00 [INF] Starting up
+2025-03-17 11:39:41.735 +04:00 [INF] Starting up
+2025-03-17 11:44:29.521 +04:00 [INF] Starting up
+2025-03-17 11:52:08.493 +04:00 [INF] Starting up
+2025-03-17 11:52:14.545 +04:00 [WRN] User is not authenticated
+2025-03-17 11:52:24.642 +04:00 [WRN] User is not authenticated
+2025-03-17 11:52:29.471 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 198.6061ms
+2025-03-17 11:52:32.828 +04:00 [WRN] User is not authenticated
+2025-03-17 11:52:36.885 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 50.8229ms
+2025-03-17 11:52:41.748 +04:00 [WRN] User is not authenticated
+2025-03-17 11:52:53.126 +04:00 [WRN] User is not authenticated
+2025-03-17 11:53:21.327 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 26264.6689ms
+2025-03-17 11:53:32.556 +04:00 [WRN] User is not authenticated
+2025-03-17 11:57:20.017 +04:00 [INF] Starting up
+2025-03-17 11:57:27.104 +04:00 [WRN] User is not authenticated
+2025-03-17 11:57:34.014 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 205.0276ms
+2025-03-17 11:57:40.174 +04:00 [WRN] User is not authenticated
+2025-03-17 11:57:49.444 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 6199.5938ms
+2025-03-17 11:58:06.092 +04:00 [WRN] User is not authenticated
+2025-03-17 11:58:11.234 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 346.2417ms
+2025-03-17 12:08:23.056 +04:00 [INF] Starting up
+2025-03-17 12:08:28.567 +04:00 [WRN] User is not authenticated
+2025-03-17 12:08:32.540 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 26.706ms
+2025-03-17 12:08:37.318 +04:00 [WRN] User is not authenticated
+2025-03-17 12:08:42.965 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 2160.7556ms
+2025-03-17 12:08:52.413 +04:00 [INF] User is authenticated
+2025-03-17 12:08:55.791 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 277.0248ms
+2025-03-17 12:09:06.888 +04:00 [INF] User is authenticated
+2025-03-17 12:13:00.515 +04:00 [INF] Starting up
+2025-03-17 12:13:08.143 +04:00 [WRN] User is not authenticated
+2025-03-17 12:13:12.441 +04:00 [INF] Request details: Client IP: ::1, Client ID: Email not available, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 66.6889ms
+2025-03-17 12:13:12.835 +04:00 [INF] User is authenticated
+2025-03-17 12:14:16.274 +04:00 [INF] Starting up
+2025-03-17 12:14:22.262 +04:00 [WRN] User is not authenticated
+2025-03-17 12:14:24.392 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 22.7996ms
+2025-03-17 12:14:29.846 +04:00 [INF] User is authenticated
+2025-03-17 12:14:39.020 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 5672.0736ms
+2025-03-17 12:16:42.826 +04:00 [INF] Starting up
+2025-03-17 12:16:49.840 +04:00 [WRN] User is not authenticated
+2025-03-17 12:16:54.352 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 26.1065ms
+2025-03-17 12:16:58.725 +04:00 [WRN] User is not authenticated
+2025-03-17 12:16:58.797 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 61.7677ms
+2025-03-17 12:17:19.888 +04:00 [INF] User is authenticated
+2025-03-17 12:17:28.046 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 8153.7246ms
+2025-03-17 12:19:23.426 +04:00 [INF] Starting up
+2025-03-17 12:19:29.903 +04:00 [WRN] User is not authenticated
+2025-03-17 12:19:29.926 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 20.7673ms
+2025-03-17 12:19:33.107 +04:00 [WRN] User is not authenticated
+2025-03-17 12:19:33.202 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /index.html, Response Code: 200, Response Time: 90.7443ms
+2025-03-17 12:19:36.107 +04:00 [INF] User is authenticated
+2025-03-17 12:19:36.533 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 424.6277ms
+2025-03-17 12:19:37.934 +04:00 [INF] User is authenticated
+2025-03-17 12:19:37.981 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 15.7814ms
+2025-03-17 12:19:51.571 +04:00 [INF] Starting up
+2025-03-17 12:20:00.355 +04:00 [WRN] User is not authenticated
+2025-03-17 12:20:00.431 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 61.3799ms
+2025-03-17 12:20:01.121 +04:00 [INF] User is authenticated
+2025-03-17 12:20:01.671 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 549.2814ms
+2025-03-17 12:20:55.353 +04:00 [INF] Starting up
+2025-03-17 12:21:03.985 +04:00 [WRN] User is not authenticated
+2025-03-17 12:21:04.028 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 39.4278ms
+2025-03-17 12:21:13.125 +04:00 [INF] User is authenticated
+2025-03-17 12:21:13.556 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 429.8422ms
+2025-03-17 12:21:14.876 +04:00 [INF] User is authenticated
+2025-03-17 12:21:14.883 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 5.2029ms
+2025-03-17 12:21:57.162 +04:00 [INF] Starting up
+2025-03-17 12:22:04.482 +04:00 [WRN] User is not authenticated
+2025-03-17 12:22:04.576 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 87.1279ms
+2025-03-17 12:22:05.125 +04:00 [INF] User is authenticated
+2025-03-17 12:22:05.809 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 681.3904ms
+2025-03-17 12:22:07.963 +04:00 [INF] User is authenticated
+2025-03-17 12:22:07.971 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 6.4365ms
+2025-03-17 12:22:12.687 +04:00 [WRN] User is not authenticated
+2025-03-17 12:22:15.661 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 2972.6037ms
+2025-03-17 12:22:24.814 +04:00 [INF] User is authenticated
+2025-03-17 12:22:24.818 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 1.1271ms
+2025-03-17 12:31:52.414 +04:00 [INF] Starting up
+2025-03-17 12:32:03.322 +04:00 [WRN] User is not authenticated
+2025-03-17 12:32:03.365 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 35.6385ms
+2025-03-17 12:33:21.054 +04:00 [INF] User is authenticated
+2025-03-17 12:33:21.502 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 446.3275ms
+2025-03-17 12:33:28.930 +04:00 [INF] User is authenticated
+2025-03-17 12:33:28.938 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 6.4543ms
+2025-03-17 12:33:48.695 +04:00 [WRN] User is not authenticated
+2025-03-17 12:33:52.559 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 1878.8579ms
+2025-03-17 12:40:24.603 +04:00 [INF] Starting up
+2025-03-17 12:40:37.022 +04:00 [WRN] User is not authenticated
+2025-03-17 12:40:37.096 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 65.5772ms
+2025-03-17 12:41:33.967 +04:00 [INF] Starting up
+2025-03-17 12:41:43.951 +04:00 [WRN] User is not authenticated
+2025-03-17 12:41:43.979 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 24.0371ms
+2025-03-17 12:41:54.611 +04:00 [INF] User is authenticated
+2025-03-17 12:41:59.894 +04:00 [INF] User is authenticated
+2025-03-17 12:42:01.288 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 4534.4299ms
+2025-03-17 12:42:18.859 +04:00 [INF] Starting up
+2025-03-17 12:42:31.757 +04:00 [WRN] User is not authenticated
+2025-03-17 12:42:31.784 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 23.5788ms
+2025-03-17 12:42:37.682 +04:00 [INF] User is authenticated
+2025-03-17 12:42:39.191 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 437.7705ms
+2025-03-17 14:45:46.598 +04:00 [INF] Starting up
+2025-03-17 14:46:09.013 +04:00 [WRN] User is not authenticated
+2025-03-17 14:46:15.546 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 3073.6274ms
+2025-03-17 14:46:37.546 +04:00 [WRN] User is not authenticated
+2025-03-17 14:46:37.553 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/latest, Response Code: 404, Response Time: 1.1633ms
+2025-03-17 14:46:43.023 +04:00 [WRN] User is not authenticated
+2025-03-17 14:46:43.322 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 294.5512ms
+2025-03-17 14:47:20.900 +04:00 [WRN] User is not authenticated
+2025-03-17 14:47:20.909 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 4.6591ms
+2025-03-17 14:47:24.028 +04:00 [WRN] User is not authenticated
+2025-03-17 14:47:24.031 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 0.9075ms
+2025-03-17 14:48:17.776 +04:00 [INF] Starting up
+2025-03-17 14:48:23.133 +04:00 [WRN] User is not authenticated
+2025-03-17 14:48:23.165 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 28.6994ms
+2025-03-17 14:48:41.809 +04:00 [INF] Starting up
+2025-03-17 14:48:48.552 +04:00 [WRN] User is not authenticated
+2025-03-17 14:48:48.601 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 45.054ms
+2025-03-17 14:48:51.449 +04:00 [WRN] User is not authenticated
+2025-03-17 14:48:51.801 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 349.0923ms
+2025-03-17 14:49:04.807 +04:00 [WRN] User is not authenticated
+2025-03-17 14:49:04.820 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 9.4734ms
+2025-03-17 14:50:18.900 +04:00 [INF] Starting up
+2025-03-17 14:50:24.602 +04:00 [WRN] User is not authenticated
+2025-03-17 14:50:24.602 +04:00 [WRN] User is not authenticated
+2025-03-17 14:50:24.666 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 51.8742ms
+2025-03-17 14:50:25.262 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 647.5032ms
+2025-03-17 14:51:32.946 +04:00 [INF] Starting up
+2025-03-17 14:51:41.870 +04:00 [WRN] User is not authenticated
+2025-03-17 14:51:41.870 +04:00 [WRN] User is not authenticated
+2025-03-17 14:51:41.945 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 64.06ms
+2025-03-17 14:51:42.730 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 849.22ms
+2025-03-17 14:52:28.797 +04:00 [WRN] User is not authenticated
+2025-03-17 14:52:28.929 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 400, Response Time: 130.4146ms
+2025-03-17 14:59:23.098 +04:00 [INF] Starting up
+2025-03-17 14:59:29.707 +04:00 [WRN] User is not authenticated
+2025-03-17 14:59:29.746 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 36.5464ms
+2025-03-17 14:59:38.317 +04:00 [WRN] User is not authenticated
+2025-03-17 14:59:42.645 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 4325.8383ms
+2025-03-17 14:59:51.886 +04:00 [INF] User is authenticated
+2025-03-17 14:59:51.889 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/latest, Response Code: 404, Response Time: 1.3452ms
+2025-03-17 15:01:03.533 +04:00 [WRN] User is not authenticated
+2025-03-17 15:01:03.536 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/ConvertCurrency, Response Code: 404, Response Time: 0.6961ms
+2025-03-17 15:01:16.610 +04:00 [WRN] User is not authenticated
+2025-03-17 15:01:16.611 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/Currency/ConvertCurrency, Response Code: 404, Response Time: 0.0777ms
+2025-03-17 15:01:17.895 +04:00 [WRN] User is not authenticated
+2025-03-17 15:01:17.897 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /api/Currency/ConvertCurrency, Response Code: 404, Response Time: 0.075ms
+2025-03-17 15:02:13.748 +04:00 [WRN] User is not authenticated
+2025-03-17 15:02:16.777 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 3027.2479ms
+2025-03-17 15:02:35.012 +04:00 [INF] User is authenticated
+2025-03-17 15:02:35.341 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 327.8827ms
+2025-03-17 15:03:16.840 +04:00 [INF] Starting up
+2025-03-17 15:03:21.309 +04:00 [WRN] User is not authenticated
+2025-03-17 15:03:21.335 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 23.9532ms
+2025-03-17 15:03:48.757 +04:00 [WRN] User is not authenticated
+2025-03-17 15:03:52.182 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 3423.0909ms
+2025-03-17 15:04:00.810 +04:00 [INF] User is authenticated
+2025-03-17 15:04:08.614 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 7800.4309ms
+2025-03-17 16:18:37.947 +04:00 [INF] Starting up
+2025-03-17 16:18:42.654 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:24:34.684 +04:00 [INF] Starting up
+2025-03-17 16:24:39.189 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:25:00.147 +04:00 [INF] Starting up
+2025-03-17 16:25:04.285 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:25:37.048 +04:00 [INF] Starting up
+2025-03-17 16:25:38.943 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:26:09.728 +04:00 [INF] Starting up
+2025-03-17 16:26:13.970 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:30:41.425 +04:00 [INF] Starting up
+2025-03-17 16:30:43.613 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:31:06.423 +04:00 [INF] Starting up
+2025-03-17 16:31:08.387 +04:00 [FTL] Application start-up failed
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: CurrencyConverterAPI.Services.ICurrencyService Lifetime: Scoped ImplementationType: CurrencyConverterAPI.Services.CurrencyService': Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'CurrencyConverterAPI.Providers.ICurrencyRateProvider' while attempting to activate 'CurrencyConverterAPI.Services.CurrencyService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.InitializeServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Program.Main(String[] args) in G:\HeetPatel\Projects\CurrencyConverterAPI\CurrencyConverterAPI\Program.cs:line 17
+2025-03-17 16:34:22.440 +04:00 [INF] Starting up
+2025-03-17 16:34:31.102 +04:00 [WRN] User is not authenticated
+2025-03-17 16:34:31.143 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 35.9501ms
+2025-03-17 16:34:41.679 +04:00 [WRN] User is not authenticated
+2025-03-17 16:34:45.660 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 3979.2934ms
+2025-03-17 16:34:55.757 +04:00 [INF] User is authenticated
+2025-03-17 16:34:55.825 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 400, Response Time: 66.2087ms
+2025-03-17 16:38:31.016 +04:00 [INF] Starting up
+2025-03-17 16:38:35.464 +04:00 [WRN] User is not authenticated
+2025-03-17 16:38:35.491 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 24.7134ms
+2025-03-17 16:38:53.269 +04:00 [WRN] User is not authenticated
+2025-03-17 16:38:57.756 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 4485.9491ms
+2025-03-17 16:39:09.774 +04:00 [INF] User is authenticated
+2025-03-17 16:39:09.837 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 400, Response Time: 61.1375ms
+2025-03-17 16:41:47.688 +04:00 [INF] Starting up
+2025-03-17 16:41:53.244 +04:00 [WRN] User is not authenticated
+2025-03-17 16:41:53.276 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 22.4986ms
+2025-03-17 16:41:54.164 +04:00 [WRN] User is not authenticated
+2025-03-17 16:41:54.750 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 584.0352ms
+2025-03-17 16:42:02.980 +04:00 [INF] User is authenticated
+2025-03-17 16:42:03.039 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 400, Response Time: 56.9129ms
+2025-03-17 16:42:14.639 +04:00 [INF] User is authenticated
+2025-03-17 16:42:41.490 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 26849.0189ms
+2025-03-17 16:43:40.243 +04:00 [INF] Starting up
+2025-03-17 16:43:46.950 +04:00 [WRN] User is not authenticated
+2025-03-17 16:43:46.978 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 24.8511ms
+2025-03-17 16:45:06.197 +04:00 [INF] Starting up
+2025-03-17 16:45:10.754 +04:00 [WRN] User is not authenticated
+2025-03-17 16:45:10.793 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 33.2701ms
+2025-03-17 16:45:25.980 +04:00 [WRN] User is not authenticated
+2025-03-17 16:45:26.402 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 420.0852ms
+2025-03-17 16:45:34.908 +04:00 [INF] User is authenticated
+2025-03-17 16:45:46.463 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 11553.5076ms
+2025-03-17 16:45:57.253 +04:00 [INF] User is authenticated
+2025-03-17 16:45:59.722 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 2468.0209ms
+2025-03-17 17:23:51.900 +04:00 [INF] Starting up
+2025-03-17 17:23:56.011 +04:00 [WRN] User is not authenticated
+2025-03-17 17:23:56.036 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 20.52ms
+2025-03-17 17:24:04.708 +04:00 [WRN] User is not authenticated
+2025-03-17 17:24:04.968 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 259.3363ms
+2025-03-17 17:24:12.806 +04:00 [INF] User is authenticated
+2025-03-17 17:24:40.541 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 27733.0709ms
+2025-03-17 17:25:54.852 +04:00 [WRN] User is not authenticated
+2025-03-17 17:25:54.857 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 2.4394ms
+2025-03-17 17:26:04.509 +04:00 [INF] User is authenticated
+2025-03-17 17:26:07.612 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 3100.7444ms
+2025-03-17 17:26:48.585 +04:00 [INF] User is authenticated
+2025-03-17 17:28:00.241 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 71653.6486ms
+2025-03-17 17:29:08.617 +04:00 [INF] Starting up
+2025-03-17 17:29:16.284 +04:00 [WRN] User is not authenticated
+2025-03-17 17:29:16.337 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: GET, Endpoint: /swagger, Response Code: 404, Response Time: 49.294ms
+2025-03-17 17:29:20.118 +04:00 [WRN] User is not authenticated
+2025-03-17 17:29:20.717 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 598.0711ms
+2025-03-17 17:29:29.522 +04:00 [INF] User is authenticated
+2025-03-17 17:29:32.872 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 3348.7066ms
+2025-03-17 17:29:40.435 +04:00 [INF] User is authenticated
+2025-03-17 17:29:42.848 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 2411.053ms
+2025-03-17 17:29:48.521 +04:00 [INF] User is authenticated
+2025-03-17 17:29:51.346 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency/latest, Response Code: 200, Response Time: 2822.2623ms
+2025-03-17 17:31:02.250 +04:00 [WRN] User is not authenticated
+2025-03-17 17:31:02.256 +04:00 [INF] Request details: Client IP: ::1, Client ID: null, HTTP Method: POST, Endpoint: /api/auth/login, Response Code: 200, Response Time: 4.0746ms
+2025-03-17 17:31:11.830 +04:00 [INF] User is authenticated
+2025-03-17 17:31:11.971 +04:00 [INF] Request details: Client IP: ::1, Client ID: Test@gmail.com, HTTP Method: GET, Endpoint: /api/Currency, Response Code: 200, Response Time: 139.7098ms
